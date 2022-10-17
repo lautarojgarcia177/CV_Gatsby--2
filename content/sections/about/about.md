@@ -1,7 +1,8 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
+imageSrc: "../../images/Pic_Tejas.png"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
+
 
 **BIRTHDATE:** 10th June, 1995
 <br>
@@ -12,5 +13,3 @@ imageAlt: "About Gatsby Theme Portfolio Minimal"
 **LOCATION:** Southern part of the city ,Córdoba, Argentina
 <br>
 **LANGUAGES:** English (Advanced), Spanish (Native)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash

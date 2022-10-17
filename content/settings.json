@@ -19,8 +19,8 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Technologies", "url": "/#technologies" },
+        { "label": "Portfolio", "url": "/#portfolio" }
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -28,8 +28,6 @@
         "url": "/Resume_Lautaro-Garcia.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
       ]
     },
     "featureToggles": {
