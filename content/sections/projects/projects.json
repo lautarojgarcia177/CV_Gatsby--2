@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "intive",
+      "category": "intive • Since Agoust 2021",
       "title": "Frontend web developer",
       "description": "Working for Avaya as a contractor.",
       "tags": ["Angular", "NgRx", "Jest", "Microfrontend", "Atlassian"],
@@ -24,7 +24,7 @@
     },
     {
       "visible": true,
-      "category": "Qvix",
+      "category": "Qvix • March 2020 - July 2021",
       "title": "Frontend web developer",
       "description": "Worked on a platform for transmission to multiple screens and social TV.",
       "tags": ["Angular", "NgRx", "Angular Material", "Bootstrap"],
@@ -41,7 +41,7 @@
     },
     {
       "visible": true,
-      "category": "Coderhouse",
+      "category": "Coderhouse • Since february 2020",
       "title": "Teaching staff",
       "description": "Assistant and teacher on multiple courses about programming, tools and UX/UI.",
       "tags": ["Node.js", "Javascript", "Angular", "Bootstrap", "Excel", "Figma"],
@@ -58,7 +58,7 @@
     },
     {
       "visible": true,
-      "category": "EducacionIT",
+      "category": "EducacionIT • Since September 2022",
       "title": "Instructor",
       "description": "Professor on Javascript, PWA and Angular courses.",
       "tags": ["PWA", "Javascript", "Angular"],
@@ -75,7 +75,7 @@
     },
     {
       "visible": true,
-      "category": "DUI",
+      "category": "DUI • November 2018 - February 2020",
       "title": "Intern",
       "description": "Internship at the IT Department of the National University of Cordoba, Argentina. I did IT Support, public attention and teach Libreoffice courses.",
       "tags": ["Libreoffice", "Moodle", "IT Support"],

@@ -20,7 +20,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Technologies", "url": "/#technologies" },
-        { "label": "Portfolio", "url": "/#portfolio" }
+        { "label": "Experience", "url": "/#experience" },
+        { "label": "Portfolio", "url": "/#_portfolio" }
       ],
       "ctaButton": {
         "openNewTab": true,
