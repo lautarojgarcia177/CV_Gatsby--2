@@ -1,65 +1,72 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Angular, React",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/icon__angular.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Ngrx, Redux, Recoil",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/icon__redux.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Material, Bootstrap, Chakra",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/icon__bootstrap.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Jest, Jasmine",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Animations",
-      "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/testing-icon.png",
         "alt": ""
       }
     },
     {
       "label": "PWA (Offline Support)",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/icon__pwa.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Express, Nest",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/icon__node.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "SQL, No-SQL",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/icon__database.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Electron.js",
+      "image": {
+        "src": "../../images/icon__electron.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Amazon Web Services",
+      "image": {
+        "src": "../../images/icon__aws.png",
         "alt": ""
       }
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "+ Load More",
-    "initiallyShownInterests": 5
+    "initiallyShownInterests": 20
   }
 }
