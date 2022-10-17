@@ -2,46 +2,97 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "intive",
+      "title": "Frontend web developer",
+      "description": "Working for Avaya as a contractor.",
+      "tags": ["Angular", "NgRx", "Jest", "Microfrontend", "Atlassian"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/INTIVE-LOGO.jpg",
+        "alt": "intive",
+        "linkTo": "https://intive.com/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://intive.com/"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://www.avaya.com/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Qvix",
+      "title": "Frontend web developer",
+      "description": "Worked on a platform for transmission to multiple screens and social TV.",
+      "tags": ["Angular", "NgRx", "Angular Material", "Bootstrap"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/Qvix_Logo.jpeg",
+        "alt": "Qvix solutions"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://qvixsolutions.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Coderhouse",
+      "title": "Teaching staff",
+      "description": "Assistant and teacher on multiple courses about programming, tools and UX/UI.",
+      "tags": ["Node.js", "Javascript", "Angular", "Bootstrap", "Excel", "Figma"],
+      "image": {
+        "src": "../../images/coderhouse_logo.webp",
+        "alt": "Coderhouse"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://coderhouse.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "EducacionIT",
+      "title": "Instructor",
+      "description": "Professor on Javascript, PWA and Angular courses.",
+      "tags": ["PWA", "Javascript", "Angular"],
+      "image": {
+        "src": "../../images/educacionIT-logo.jpeg",
+        "alt": "EducacionIT"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.educacionit.com/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "DUI",
+      "title": "Intern",
+      "description": "Internship at the IT Department of the National University of Cordoba, Argentina. I did IT Support, public attention and teach Libreoffice courses.",
+      "tags": ["Libreoffice", "Moodle", "IT Support"],
+      "image": {
+        "src": "../../images/DUI-logo.jpeg",
+        "alt": "DUI"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://www.dui.unc.edu.ar/"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }

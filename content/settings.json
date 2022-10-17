@@ -2,7 +2,7 @@
   "siteMetadata": {
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Lautaro Garcia Portfolio",
+    "title": "Lautaro Garcia Portfolio & Resume",
     "titleTemplate": "%s · Lautaro Garcia Portfolio",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Lautaro Garcia",
@@ -15,7 +15,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Portfolio & Resume" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
